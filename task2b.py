@@ -148,7 +148,6 @@ datagen = ImageDataGenerator(
 )
 
 # Load and prepare your training data with custom class labels
-# Load and prepare your training data with custom class labels
 train_data = datagen.flow_from_directory(
     '/content/drive/MyDrive/Colab Notebooks/training',
     target_size=image_size,
