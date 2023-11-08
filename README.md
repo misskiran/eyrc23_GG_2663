@@ -12,7 +12,7 @@ e) A valuable addition to portfolio or resume.
 
 
 #
-competition description\\ add here aniket
+
 
 #------------------------------------------------------------------------#
 Add tea mdiscription with linkdin id here// gauri phase
