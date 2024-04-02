@@ -11,13 +11,4 @@ d) The chance to win awards, prizes, and recognition for work.
 e) A valuable addition to portfolio or resume.
 
 
-#
-
-
-Kiran Mishra- https://www.linkedin.com/in/mkiran25/
-Yash Phuke-https://www.linkedin.com/in/yash-phuke/
-Aniket Mankar-
-Gauri Phanse-https://www.linkedin.com/in/gauri-phanse-8837a723b/
-
-#------------------------------------------------------------------------#
 
