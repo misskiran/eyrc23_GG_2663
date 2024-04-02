@@ -14,8 +14,6 @@ e) A valuable addition to portfolio or resume.
 #
 
 
-#------------------------------------------------------------------------#
-Add tea mdiscription with linkdin id here// gauri phase
 Kiran Mishra- https://www.linkedin.com/in/mkiran25/
 Yash Phuke-https://www.linkedin.com/in/yash-phuke/
 Aniket Mankar-
