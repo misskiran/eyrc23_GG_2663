@@ -2,13 +2,13 @@
 #
 **Eyantra Robotics Competition**
 The Eyantra Robotics Competition is an annual, national-level competition that challenges aspiring engineers and robotics enthusiasts to design and develop innovative robotic solutions to real-world problems. Organized by the Eyantra project, a robotics and embedded systems initiative by the Indian Institute of Technology (IIT) Bombay, this competition aims to foster creativity, problem-solving skills, and teamwork in the field of robotics.
-
+#
 Participating in the Eyantra Robotics Competition offers numerous advantages, including:
-a) Exposure to cutting-edge technologies and real-world problem-solving.
-b) Collaboration with experts, mentors, and fellow robotics enthusiasts.
-c) Opportunities to showcase skills and innovations to industry professionals.
-d) The chance to win awards, prizes, and recognition for work.
-e) A valuable addition to portfolio or resume.
+# a) Exposure to cutting-edge technologies and real-world problem-solving.
+# b) Collaboration with experts, mentors, and fellow robotics enthusiasts.
+# c) Opportunities to showcase skills and innovations to industry professionals.
+# d) The chance to win awards, prizes, and recognition for work.
+# e) A valuable addition to portfolio or resume.
 
 
 
